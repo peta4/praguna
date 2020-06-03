@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from './components/Title/Title'
-import Logo from './img/u-praguny-logo.png'
+
 
 function Header() {
     let headerStyles = {textAlign:'center', marginTop: '130px'}
