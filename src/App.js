@@ -59,7 +59,7 @@ function App(){
             blur={{ min: -15, max: 15 }}
             bgImage={Uterky}
             bgImageAlt="Utěrky"
-            strength={300}
+            strength={500}
         >
             <Title nadpis={`${"... až po utěrky"}`} type={2} styles={{fontWeight:'bold', color:'white', textAlign: 'center' , position:'relative' , top:'500px'}} />
 
